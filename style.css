@@ -1,0 +1,11 @@
+div{
+    width: 300px;
+    padding: 10px;
+}
+
+.teacher{
+    background-color: grey;
+}
+.pm{
+    background-color: green;
+}
